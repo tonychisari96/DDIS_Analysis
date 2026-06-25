@@ -1,0 +1,96 @@
+=======================================================================
+Ratio: bin_width / (bin center * sigma)
+=======================================================================
+=======================================================================
+Method: EM
+=======================================================================
+  Bin 0  [5, 5.9]: 	 bin_width/(bin_center*sigma) = 12.2865
+  Bin 1  [5.9, 7]:       bin_width/(bin_center*sigma) = 13.9376
+  Bin 2  [7, 8.3]:       bin_width/(bin_center*sigma) = 15.0036
+  Bin 3  [8.3, 9.9]:     bin_width/(bin_center*sigma) = 17.4692
+  Bin 4  [9.9, 11.7]:    bin_width/(bin_center*sigma) = 16.9481
+  Bin 5  [11.7, 13.9]:   bin_width/(bin_center*sigma) = 19.6429
+  Bin 6  [13.9, 16.4]:   bin_width/(bin_center*sigma) = 19.481
+  Bin 7  [16.4, 19.5]:   bin_width/(bin_center*sigma) = 21.474
+  Bin 8  [19.5, 23.1]:   bin_width/(bin_center*sigma) = 23.2139
+  Bin 9  [23.1, 27.4]:   bin_width/(bin_center*sigma) = 26.2601
+  Bin 10 [27.4, 32.5]:   bin_width/(bin_center*sigma) = 29.2329
+  Bin 11 [32.5, 38.5]:   bin_width/(bin_center*sigma) = 28.1616
+  Bin 12 [38.5, 45.6]: 	 bin_width/(bin_center*sigma) = 29.8894
+  Bin 13 [45.6, 54.1]:   bin_width/(bin_center*sigma) = 32.6707
+  Bin 14 [54.1, 64.1]:   bin_width/(bin_center*sigma) = 32.6114
+  Bin 15 [64.1, 76]:     bin_width/(bin_center*sigma) = 34.5698
+  Bin 16 [76, 90.1]:     bin_width/(bin_center*sigma) = 32.9362
+  Bin 17 [90.1, 106.8]:  bin_width/(bin_center*sigma) = 31.6878
+  Bin 18 [106.8, 126.5]: bin_width/(bin_center*sigma) = 33.3183
+  Bin 19 [126.5, 150]:   bin_width/(bin_center*sigma) = 29.4243
+=======================================================================
+Method: DA
+=======================================================================
+  Bin 0  [5, 5.9]:       bin_width/(bin_center*sigma) = 27.8777
+  Bin 1  [5.9, 7]:       bin_width/(bin_center*sigma) = 33.5846
+  Bin 2  [7, 8.3]:       bin_width/(bin_center*sigma) = 55.0262
+  Bin 3  [8.3, 9.9]:     bin_width/(bin_center*sigma) = 31.3302
+  Bin 4  [9.9, 11.7]:    bin_width/(bin_center*sigma) = 28.0411
+  Bin 5  [11.7, 13.9]:   bin_width/(bin_center*sigma) = 27.5803
+  Bin 6  [13.9, 16.4]:   bin_width/(bin_center*sigma) = 24.0969
+  Bin 7  [16.4, 19.5]:   bin_width/(bin_center*sigma) = 21.4978
+  Bin 8  [19.5, 23.1]:   bin_width/(bin_center*sigma) = 19.9751
+  Bin 9  [23.1, 27.4]:   bin_width/(bin_center*sigma) = 18.2563
+  Bin 10 [27.4, 32.5]:   bin_width/(bin_center*sigma) = 17.7509
+  Bin 11 [32.5, 38.5]:   bin_width/(bin_center*sigma) = 15.5929
+  Bin 12 [38.5, 45.6]:   bin_width/(bin_center*sigma) = 15.0521
+  Bin 13 [45.6, 54.1]:   bin_width/(bin_center*sigma) = 9.73135
+  Bin 14 [54.1, 64.1]:   bin_width/(bin_center*sigma) = 16.7772
+  Bin 15 [64.1, 76]:     bin_width/(bin_center*sigma) = 37.1836
+  Bin 16 [76, 90.1]:     bin_width/(bin_center*sigma) = 8.90084
+  Bin 17 [90.1, 106.8]:  bin_width/(bin_center*sigma) = 6.93031
+  Bin 18 [106.8, 126.5]: bin_width/(bin_center*sigma) = 7.12715
+  Bin 19 [126.5, 150]:   bin_width/(bin_center*sigma) = 7.02866
+=======================================================================
+Method: Sigma
+=======================================================================
+  Bin 0  [5, 5.9]:       bin_width/(bin_center*sigma) = 4.08024
+  Bin 1  [5.9, 7]:       bin_width/(bin_center*sigma) = 4.58793
+  Bin 2  [7, 8.3]:       bin_width/(bin_center*sigma) = 4.9118
+  Bin 3  [8.3, 9.9]:     bin_width/(bin_center*sigma) = 5.79968
+  Bin 4  [9.9, 11.7]:    bin_width/(bin_center*sigma) = 5.50933
+  Bin 5  [11.7, 13.9]:   bin_width/(bin_center*sigma) = 5.8347
+  Bin 6  [13.9, 16.4]:   bin_width/(bin_center*sigma) = 5.61958
+  Bin 7  [16.4, 19.5]:   bin_width/(bin_center*sigma) = 6.2098
+  Bin 8  [19.5, 23.1]:   bin_width/(bin_center*sigma) = 6.05065
+  Bin 9  [23.1, 27.4]:   bin_width/(bin_center*sigma) = 5.78296
+  Bin 10 [27.4, 32.5]:   bin_width/(bin_center*sigma) = 6.24098
+  Bin 11 [32.5, 38.5]:   bin_width/(bin_center*sigma) = 5.07438
+  Bin 12 [38.5, 45.6]:   bin_width/(bin_center*sigma) = 4.84133
+  Bin 13 [45.6, 54.1]:   bin_width/(bin_center*sigma) = 4.39893
+  Bin 14 [54.1, 64.1]:   bin_width/(bin_center*sigma) = 4.77381
+  Bin 15 [64.1, 76]:     bin_width/(bin_center*sigma) = 13.7733
+  Bin 16 [76, 90.1]:     bin_width/(bin_center*sigma) = 4.43729
+  Bin 17 [90.1, 106.8]:  bin_width/(bin_center*sigma) = 9.7891
+  Bin 18 [106.8, 126.5]: bin_width/(bin_center*sigma) = 3.7897
+  Bin 19 [126.5, 150]:   bin_width/(bin_center*sigma) = 5.05065
+=======================================================================
+Method: ESigma
+=======================================================================
+  Bin 0  [5, 5.9]:       bin_width/(bin_center*sigma) = 11.9128
+  Bin 1  [5.9, 7]:       bin_width/(bin_center*sigma) = 13.6922
+  Bin 2  [7, 8.3]:       bin_width/(bin_center*sigma) = 14.5901
+  Bin 3  [8.3, 9.9]:     bin_width/(bin_center*sigma) = 16.1669
+  Bin 4  [9.9, 11.7]:    bin_width/(bin_center*sigma) = 16.7492
+  Bin 5  [11.7, 13.9]:   bin_width/(bin_center*sigma) = 18.8594
+  Bin 6  [13.9, 16.4]:   bin_width/(bin_center*sigma) = 18.9434
+  Bin 7  [16.4, 19.5]:   bin_width/(bin_center*sigma) = 21.2621
+  Bin 8  [19.5, 23.1]:   bin_width/(bin_center*sigma) = 22.1679
+  Bin 9  [23.1, 27.4]:   bin_width/(bin_center*sigma) = 24.7661
+  Bin 10 [27.4, 32.5]:   bin_width/(bin_center*sigma) = 29.0667
+  Bin 11 [32.5, 38.5]:   bin_width/(bin_center*sigma) = 31.6663
+  Bin 12 [38.5, 45.6]:   bin_width/(bin_center*sigma) = 29.2043
+  Bin 13 [45.6, 54.1]:   bin_width/(bin_center*sigma) = 29.1629
+  Bin 14 [54.1, 64.1]:   bin_width/(bin_center*sigma) = 31.6946
+  Bin 15 [64.1, 76]:     bin_width/(bin_center*sigma) = 34.27
+  Bin 16 [76, 90.1]:     bin_width/(bin_center*sigma) = 31.3835
+  Bin 17 [90.1, 106.8]:  bin_width/(bin_center*sigma) = 31.4289
+  Bin 18 [106.8, 126.5]: bin_width/(bin_center*sigma) = 33.9289
+  Bin 19 [126.5, 150]:   bin_width/(bin_center*sigma) = 29.3048
+=======================================================================

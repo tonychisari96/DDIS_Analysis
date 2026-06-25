@@ -1,0 +1,51 @@
+==============================================================
+Ratio: bin_width / (sigma)
+==============================================================
+==============================================================
+Method: EM
+==============================================================
+  Bin 0 [0.0010, 0.0014]: ampiezza bin/sigma = 67.0172
+  Bin 1 [0.0014, 0.0020]: ampiezza bin/sigma = 70.9594
+  Bin 2 [0.0020, 0.0029]: ampiezza bin/sigma = 55.9066
+  Bin 3 [0.0029, 0.0041]: ampiezza bin/sigma = 44.8195
+  Bin 4 [0.0041, 0.0059]: ampiezza bin/sigma = 56.5681
+  Bin 5 [0.0059, 0.0084]: ampiezza bin/sigma = 50.2768
+  Bin 6 [0.0084, 0.0170]: ampiezza bin/sigma = 73.2961
+  Bin 7 [0.0170, 0.0400]: ampiezza bin/sigma = 50.4183
+  Bin 8 [0.0400, 0.1000]: ampiezza bin/sigma = 19.598
+==============================================================
+Method: DA
+==============================================================
+  Bin 0 [0.0010, 0.0014]: ampiezza bin/sigma = 14.633
+  Bin 1 [0.0014, 0.0020]: ampiezza bin/sigma = 15.4938
+  Bin 2 [0.0020, 0.0029]: ampiezza bin/sigma = 1.00358
+  Bin 3 [0.0029, 0.0041]: ampiezza bin/sigma = 1.53449
+  Bin 4 [0.0041, 0.0059]: ampiezza bin/sigma = 1.79752
+  Bin 5 [0.0059, 0.0084]: ampiezza bin/sigma = 1.90069
+  Bin 6 [0.0084, 0.0170]: ampiezza bin/sigma = 4.32383
+  Bin 7 [0.0170, 0.0400]: ampiezza bin/sigma = 6.14157
+==============================================================
+Method: Sigma
+==============================================================
+  Bin 0 [0.0010, 0.0014]: ampiezza bin/sigma = 9.06319
+  Bin 1 [0.0014, 0.002]: ampiezza bin/sigma = 9.59632
+  Bin 2 [0.0020, 0.0029]: ampiezza bin/sigma = 13.3255
+  Bin 3 [0.0029, 0.0041]: ampiezza bin/sigma = 10.5383
+  Bin 4 [0.0041, 0.0059]: ampiezza bin/sigma = 10.336
+  Bin 5 [0.0059, 0.0084]: ampiezza bin/sigma = 10.5262
+  Bin 6 [0.0084, 0.0170]: ampiezza bin/sigma = 13.8789
+  Bin 7 [0.0170, 0.0400]: ampiezza bin/sigma = 12.8117
+  Bin 8 [0.0400, 0.1000]: ampiezza bin/sigma = 15.4316
+==============================================================
+Method: ESigma
+==============================================================
+  Bin 0 [0.0010, 0.0014]: ampiezza bin/sigma = 9.06319
+  Bin 1 [0.0014, 0.0020]: ampiezza bin/sigma = 9.59632
+  Bin 2 [0.0020, 0.0029]: ampiezza bin/sigma = 13.3255
+  Bin 3 [0.0029, 0.0041]: ampiezza bin/sigma = 10.5383
+  Bin 4 [0.0041, 0.0059]: ampiezza bin/sigma = 10.336
+  Bin 5 [0.0059, 0.0084]: ampiezza bin/sigma = 10.5262
+  Bin 6 [0.0084, 0.0170]: ampiezza bin/sigma = 13.8789
+  Bin 7 [0.0170, 0.0400]: ampiezza bin/sigma = 12.8117
+  Bin 8 [0.0400, 0.1000]: ampiezza bin/sigma = 15.4316
+==============================================================

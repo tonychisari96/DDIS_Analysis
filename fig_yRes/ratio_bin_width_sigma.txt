@@ -1,0 +1,119 @@
+==============================================================
+Ratio: bin_width / (sigma)
+==============================================================
+==============================================================
+Method: EM
+==============================================================
+  Bin 0  [0.01, 0.06]:   bin width/sigma = 5.30908
+  Bin 1  [0.06, 0.109]:  bin width/sigma = 4.18927
+  Bin 2  [0.109, 0.159]: bin width/sigma = 4.67302
+  Bin 3  [0.159, 0.208]: bin width/sigma = 4.97693
+  Bin 4  [0.208, 0.258]: bin width/sigma = 5.59723
+  Bin 5  [0.258, 0.307]: bin width/sigma = 5.97649
+  Bin 6  [0.307, 0.357]: bin width/sigma = 6.73877
+  Bin 7  [0.357, 0.406]: bin width/sigma = 8.10295
+  Bin 8  [0.406, 0.456]: bin width/sigma = 9.19322
+  Bin 9  [0.456, 0.505]: bin width/sigma = 9.44272
+  Bin 10 [0.505, 0.554]: bin width/sigma = 11.1837
+  Bin 11 [0.554, 0.604]: bin width/sigma = 13.1307
+  Bin 12 [0.604, 0.654]: bin width/sigma = 15.6794
+  Bin 13 [0.654, 0.703]: bin width/sigma = 19.6074
+  Bin 14 [0.703, 0.753]: bin width/sigma = 25.7814
+  Bin 15 [0.753, 0.802]: bin width/sigma = 33.2476
+  Bin 16 [0.802, 0.852]: bin width/sigma = 44.171
+  Bin 17 [0.852, 0.901]: bin width/sigma = 87.524
+  Bin 18 [0.901, 0.951]: bin width/sigma = 164.944
+  Bin 19 [0.951, 1]:     bin width/sigma = 391.424
+==============================================================
+Method: DA
+==============================================================
+  Bin 0  [0.01, 0.06]:   bin width/sigma = 12.2383
+  Bin 1  [0.06, 0.109]:  bin width/sigma = 5.29329
+  Bin 2  [0.109, 0.159]: bin width/sigma = 3.32154
+  Bin 3  [0.159, 0.208]: bin width/sigma = 2.58793
+  Bin 4  [0.208, 0.258]: bin width/sigma = 2.01633
+  Bin 5  [0.258, 0.307]: bin width/sigma = 1.47233
+  Bin 6  [0.307, 0.357]: bin width/sigma = 1.45354
+  Bin 7  [0.357, 0.406]: bin width/sigma = 1.35162
+  Bin 8  [0.406, 0.456]: bin width/sigma = 1.29476
+  Bin 9  [0.456, 0.505]: bin width/sigma = 1.17631
+  Bin 10 [0.505, 0.554]: bin width/sigma = 1.1318
+  Bin 11 [0.554, 0.604]: bin width/sigma = 1.09533
+  Bin 12 [0.604, 0.654]: bin width/sigma = 1.12932
+  Bin 13 [0.654, 0.703]: bin width/sigma = 1.09636
+  Bin 14 [0.703, 0.753]: bin width/sigma = 1.07787
+  Bin 15 [0.753, 0.802]: bin width/sigma = 1.10249
+  Bin 16 [0.802, 0.852]: bin width/sigma = 1.20639
+  Bin 17 [0.852, 0.901]: bin width/sigma = 1.40314
+  Bin 18 [0.901, 0.951]: bin width/sigma = 1.84333
+  Bin 19 [0.951, 1]:     bin width/sigma = 3.82149
+==============================================================
+Method: Sigma
+==============================================================
+  Bin 0  [0.01, 0.06]:   bin width/sigma = 79.8977
+  Bin 1  [0.06, 0.109]:  bin width/sigma = 13.0598
+  Bin 2  [0.109, 0.159]: bin width/sigma = 4.37569
+  Bin 3  [0.159, 0.208]: bin width/sigma = 3.99223
+  Bin 4  [0.208, 0.258]: bin width/sigma = 3.39317
+  Bin 5  [0.258, 0.307]: bin width/sigma = 2.30848
+  Bin 6  [0.307, 0.357]: bin width/sigma = 2.24441
+  Bin 7  [0.357, 0.406]: bin width/sigma = 2.24174
+  Bin 8  [0.406, 0.456]: bin width/sigma = 5.09416
+  Bin 9  [0.456, 0.505]: bin width/sigma = 2.99039
+  Bin 10 [0.505, 0.554]: bin width/sigma = 3.40422
+  Bin 11 [0.554, 0.604]: bin width/sigma = 4.28447
+  Bin 12 [0.604, 0.654]: bin width/sigma = 5.84005
+  Bin 13 [0.654, 0.703]: bin width/sigma = 7.18452
+  Bin 14 [0.703, 0.753]: bin width/sigma = 5.12495
+  Bin 15 [0.753, 0.802]: bin width/sigma = 16.2183
+  Bin 16 [0.802, 0.852]: bin width/sigma = 9.51432
+  Bin 17 [0.852, 0.901]: bin width/sigma = 23.9385
+  Bin 18 [0.901, 0.951]: bin width/sigma = 52.7453
+  Bin 19 [0.951, 1]:     bin width/sigma = 105.71
+==============================================================
+Method: ESigma
+==============================================================
+  Bin 0  [0.01, 0.06]:   bin width/sigma = 27.3352
+  Bin 1  [0.06, 0.109]:  bin width/sigma = 8.2349
+  Bin 2  [0.109, 0.159]: bin width/sigma = 4.56316
+  Bin 3  [0.159, 0.208]: bin width/sigma = 3.68782
+  Bin 4  [0.208, 0.258]: bin width/sigma = 6.85607
+  Bin 5  [0.258, 0.307]: bin width/sigma = 4.41978
+  Bin 6  [0.307, 0.357]: bin width/sigma = 5.43451
+  Bin 7  [0.357, 0.406]: bin width/sigma = 4.73988
+  Bin 8  [0.406, 0.456]: bin width/sigma = 5.81951
+  Bin 9  [0.456, 0.505]: bin width/sigma = 7.72199
+  Bin 10 [0.505, 0.554]: bin width/sigma = 8.34048
+  Bin 11 [0.554, 0.604]: bin width/sigma = 5.67287
+  Bin 12 [0.604, 0.654]: bin width/sigma = 3.34933
+  Bin 13 [0.654, 0.703]: bin width/sigma = 3.60739
+  Bin 14 [0.703, 0.753]: bin width/sigma = 3.66247
+  Bin 15 [0.753, 0.802]: bin width/sigma = 3.90977
+  Bin 16 [0.802, 0.852]: bin width/sigma = 4.29464
+  Bin 17 [0.852, 0.901]: bin width/sigma = 2.32343
+  Bin 18 [0.901, 0.951]: bin width/sigma = 1.38123
+  Bin 19 [0.951, 1]:     bin width/sigma = 2.78634
+==============================================================
+Method: Best
+==============================================================
+  Bin 0  [0.01, 0.06]:   bin width/sigma = 11.8242
+  Bin 1  [0.06, 0.109]:  bin width/sigma = 5.27334
+  Bin 2  [0.109, 0.159]: bin width/sigma = 3.90911
+  Bin 3  [0.159, 0.208]: bin width/sigma = 3.52529
+  Bin 4  [0.208, 0.258]: bin width/sigma = 3.21688
+  Bin 5  [0.258, 0.307]: bin width/sigma = 3.18438
+  Bin 6  [0.307, 0.357]: bin width/sigma = 4.00494
+  Bin 7  [0.357, 0.406]: bin width/sigma = 4.44065
+  Bin 8  [0.406, 0.456]: bin width/sigma = 7.04131
+  Bin 9  [0.456, 0.505]: bin width/sigma = 8.64426
+  Bin 10 [0.505, 0.554]: bin width/sigma = 9.4259
+  Bin 11 [0.554, 0.604]: bin width/sigma = 8.069
+  Bin 12 [0.604, 0.654]: bin width/sigma = 5.64323
+  Bin 13 [0.654, 0.703]: bin width/sigma = 3.38016
+  Bin 14 [0.703, 0.753]: bin width/sigma = 2.43123
+  Bin 15 [0.753, 0.802]: bin width/sigma = 2.11625
+  Bin 16 [0.802, 0.852]: bin width/sigma = 2.1027
+  Bin 17 [0.852, 0.901]: bin width/sigma = 1.87954
+  Bin 18 [0.901, 0.951]: bin width/sigma = 2.06728
+  Bin 19 [0.951, 1]:     bin width/sigma = 3.75739
+==============================================================
